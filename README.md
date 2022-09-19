@@ -13,7 +13,6 @@ I’m Currently working as an Application Developer at Thoughtworks. I love to i
 
 - 📫 How to reach me **hemanthhari2000@gmail.com**
 
-<br />
 
 <h3 align="left" style="font-weight: bold; margin-bottom: 10px">Contact Me:</h3>
 
