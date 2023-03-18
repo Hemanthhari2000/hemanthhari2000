@@ -5,7 +5,7 @@ I’m Currently working as an Application Developer at Thoughtworks. I love to i
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemanthhari2000&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthhari2000" /> </p>
 
-- 🌱 I’m currently learning **.Net, AWS, GCP**
+- 🌱 I’m currently learning **Kubernetes, AWS, Terraform**
 
 - 💻 View my portfolio [hemanth-kumar.vercel.app](hemanth-kumar.vercel.app)
 
@@ -23,6 +23,11 @@ I’m Currently working as an Application Developer at Thoughtworks. I love to i
 [![website](./img/instagram.svg)](https://www.instagram.com/hemi_hydrate/)
 &nbsp;&nbsp;
 [![website](./img/twitter.svg)](https://twitter.com/hemi_hydrate)
+
+<h3 align="left" style="font-weight: bold; margin-bottom: 10px">Open Source Projects:</h3>
+
+- [Contrib 3D](https://github.com/hemanthhari2000/contrib-3d) - Generates 3d model of your github contribution graph. [website](https://contrib-3d.vercel.app/)
+- [FC Loaders](https://github.com/hemanthhari2000/fc_loaders) - A Flutter package with variety of customizable animated loaders. [website](https://four-cups.github.io/fc_loader_demo/#/)
 
 <h3 align="left" style="font-weight: bold; margin-bottom: 10px">Languages and Tools:</h3>
 <p align="left">
