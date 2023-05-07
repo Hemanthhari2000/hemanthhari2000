@@ -49,29 +49,9 @@ I’m Currently working as an Application Developer at Thoughtworks. I love to i
 
 <h3 align="left" style="font-weight: bold; margin-bottom: 10px">Blogs:</h3>
 
-<div style="width:700px;display:flex;flex-wrap: wrap;">
  <a 
  target="_blank" 
  href="https://medium.com/@hemanthhari2000/introduction-to-the-world-of-terraform-3b1802c24325">
  <img src="https://github-readme-medium-card-five.vercel.app/api/medium/hemanthhari2000?index=0&mode=heman" 
  alt="Recent Article 0">
 
-<a 
- target="_blank" 
- href="https://medium.com/featurepreneur/object-detection-using-single-shot-multibox-detection-ssd-and-opencvs-deep-neural-network-dnn-d983e9d52652">
-<img src="https://github-readme-medium-card-five.vercel.app/api/medium/hemanthhari2000?index=1&mode=heman" 
- alt="Recent Article 0">
-
-<a 
- target="_blank" 
- href="https://medium.com/featurepreneur/introduction-to-micro-web-framework-flask-78de9289270b">
-<img src="https://github-readme-medium-card-five.vercel.app/api/medium/hemanthhari2000?index=2&mode=heman" 
- alt="Recent Article 0">
-
-<a 
- target="_blank" 
- href="https://medium.com/featurepreneur/introduction-to-the-in-memory-datastore-redis-e1ba0a3d3f20">
-<img src="https://github-readme-medium-card-five.vercel.app/api/medium/hemanthhari2000?index=3&mode=heman" 
- alt="Recent Article 0">
-
-</div>
