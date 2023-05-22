@@ -47,9 +47,7 @@ I’m Currently working as an Application Developer at Thoughtworks. I love to i
 
 ---
 
-<h3 align="left" style="font-weight: bold; margin-bottom: 10px">Blogs:</h3>
-
-
+<h3 align="left" style="font-weight: bold; margin-bottom: 10px"> Latest Blogs:</h3>
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
