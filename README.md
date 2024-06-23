@@ -52,9 +52,6 @@ I’m Currently working as an Application Developer at Thoughtworks. I love to i
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td style="border: none;">
-     <a 
- target="_blank" 
- href="https://medium.com/@hemanthhari2000/introduction-to-the-world-of-terraform-3b1802c24325">
  <img src="https://github-readme-medium-card-five.vercel.app/api/medium/hemanthhari2000?index=0&mode=heman" 
  alt="Recent Article 0">
    </td>
@@ -63,6 +60,19 @@ I’m Currently working as an Application Developer at Thoughtworks. I love to i
  target="_blank" 
  href="https://hemanthhari2000.medium.com/introduction-to-the-world-of-terraform-3b1802c24325">
  <img src="https://github-readme-medium-card-five.vercel.app/api/medium/hemanthhari2000?index=1&mode=heman" 
+ alt="Recent Article 1">
+   </td>
+  </tr>
+     <tr>
+    <td style="border: none;">
+ <img src="https://github-readme-medium-card-five.vercel.app/api/medium/hemanthhari2000?index=2&mode=heman" 
+ alt="Recent Article 0">
+   </td>
+    <td style="border: none;">
+    <a 
+ target="_blank" 
+ href="https://hemanthhari2000.medium.com/introduction-to-the-world-of-terraform-3b1802c24325">
+ <img src="https://github-readme-medium-card-five.vercel.app/api/medium/hemanthhari2000?index=3&mode=heman" 
  alt="Recent Article 1">
    </td>
   </tr>
